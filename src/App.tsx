@@ -67,14 +67,10 @@ function App() {
               <h1 className="text-7xl md:text-9xl font-bold bg-gradient-to-r from-purple-600 via-pink-600 to-blue-600 bg-clip-text text-transparent animate-gradient">
                 May So
               </h1>
-              <p className="text-2xl md:text-3xl text-gray-600 mt-4 font-light tracking-wide">
-                UX/UI Digital Full Stack Designer
-              </p>
             </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-              Creating Digital
+              UX/UI Digital Full Stack Designer
               <br />
-              Experiences That Matter
             </h2>
             <p className="text-xl md:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto leading-relaxed reveal">
               I am a seasoned UI/UX designer with over 8 years of experience crafting innovative design solutions that elevate user experiences. Specializing in conversational flows, I excel at leveraging AI and collaborating with teams to create seamless, human-centered interactions.
