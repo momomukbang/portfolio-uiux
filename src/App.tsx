@@ -80,7 +80,7 @@ function App() {
               className="group inline-flex items-center px-8 py-4 bg-purple-600 text-white font-medium rounded-full hover:bg-purple-700 transition-all duration-300 transform hover:scale-105 hover:shadow-xl"
             >
               See my works
-              <ArrowDown className="ml-2 w-6 h-6 group-hover:translate-x-1 transition-transform" />
+              <ArrowRight className="ml-2 w-6 h-6 group-hover:translate-x-1 transition-transform" />
             </a>
           </div>
         </div>
