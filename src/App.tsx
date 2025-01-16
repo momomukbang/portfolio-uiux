@@ -77,8 +77,7 @@ function App() {
               Experiences That Matter
             </h2>
             <p className="text-xl md:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto leading-relaxed reveal">
-              8+ years of crafting user-centered designs for leading companies,
-              transforming complex challenges into intuitive solutions.
+              I am a seasoned UI/UX designer with over 8 years of experience crafting innovative design solutions that elevate user experiences. Specializing in conversational flows, I excel at leveraging AI and collaborating with teams to create seamless, human-centered interactions.
             </p>
             <a 
               href="#work"
