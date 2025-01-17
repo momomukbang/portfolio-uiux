@@ -7,7 +7,7 @@ const experiences = [
     role: 'UXUI Consultant',
     period: '2024 - Present',
     description: 'I crafted intuitive interfaces and seamless user experiences for voice AI applications, specializing in conversation design. Collaborated with cross-functional teams to transform advanced voice technologies into engaging, user-centric solutions.Create chat-based pilot programs with cross-functional teams.',
-    icon: Shield,
+    icon: Users,
     skills: ['Design Thinking', 'User Research', 'Quick Prototyping']
   },
   {
@@ -17,6 +17,15 @@ const experiences = [
     description: 'Led the redesign of core banking applications, I collaborated closely with cross-functional teams to create intuitive interfaces, streamline complex workflows, and improve accessibility. By leveraging user research and data-driven insights, I successfully optimized digital products to meet both business goals and customer needs, driving engagement and satisfaction.',
     icon: Building2,
     skills: ['Design Systems', 'User Research', 'Design Thinking']
+  },
+
+    {
+    company: 'Vosyn Voice AI',
+    role: 'UXUI Consultant',
+    period: '2024 - Present',
+    description: 'I crafted intuitive interfaces and seamless user experiences for voice AI applications, specializing in conversation design. Collaborated with cross-functional teams to transform advanced voice technologies into engaging, user-centric solutions.Create chat-based pilot programs with cross-functional teams.',
+    icon: Users,
+    skills: ['Design Thinking', 'User Research', 'Quick Prototyping']
   },
   {
     company: 'NPE for Meta',
