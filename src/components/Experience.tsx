@@ -8,8 +8,9 @@ const experiences = [
     period: '2024 - Present',
     description: 'I crafted intuitive interfaces and seamless user experiences for voice AI applications, specializing in conversation design. Collaborated with cross-functional teams to transform advanced voice technologies into engaging, user-centric solutions.Create chat-based pilot programs with cross-functional teams.',
     icon: Shield,
-    skills: ['Design Thinking', 'User Research', 'Experience Design']
-  },{
+    skills: ['Design Thinking', 'User Research', 'Quick Prototyping']
+  },
+  {
     company: 'TD Bank',
     role: 'Senior UX/UI Designer',
     period: '2022 - Present',
@@ -20,7 +21,7 @@ const experiences = [
   {
     company: 'NPE for Meta',
     role: 'Product Designer',
-    period: '2019 - 2021',
+    period: '2021 - 2022',
     description: 'Directed the stage 1 pitch for Meta's 0-to-1 Cubicle project, proposing an AI-driven workspace framework to enhance productivity and collaboration. Partnered with teams to deliver innovative, scalable solutions for a global workforce.Leverage and extend conversation quality measures for chat solutions.',
     icon: Users,
     skills: ['Product Strategy', 'Team Leadership', 'Innovation']
@@ -39,8 +40,8 @@ const experiences = [
     period: '2017 - 2020',
     description: 'Transformed insurance claim processes through intuitive digital solutions. Reduced customer sign up times, added the ability to submit claims online and increased claim processing time.',
     icon: Shield,
-    skills: ['Visual Design', 'Prototyping', 'Competitive Analysis']
-  }
+    skills: ['Visual Design', 'Journey Mapping', 'Competitive Analysis']
+  
 ];
 
 export default function Experience() {
