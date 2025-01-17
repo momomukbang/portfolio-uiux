@@ -107,7 +107,7 @@ function App() {
                 className="w-full h-[500px] object-cover transform group-hover:scale-105 transition-transform duration-700"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/50 to-transparent p-8 flex flex-col justify-end transform translate-y-8 group-hover:translate-y-0 transition-transform duration-300">
-                <h3 className="text-white text-3xl font-bold mb-4">TD Bank Mobile App Redesign</h3>
+                <h3 className="text-white text-3xl font-bold mb-4">TD Bank Redesign</h3>
                 <p className="text-gray-200 text-lg mb-6 opacity-0 group-hover:opacity-100 transition-opacity duration-300 delay-100">
                   Modernizing digital banking experience through intuitive design and seamless interactions
                 </p>
@@ -130,7 +130,7 @@ function App() {
                 className="w-full h-[500px] object-cover transform group-hover:scale-105 transition-transform duration-700"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/50 to-transparent p-8 flex flex-col justify-end transform translate-y-8 group-hover:translate-y-0 transition-transform duration-300">
-                <h3 className="text-white text-3xl font-bold mb-4">Co-operators Insurance Platform</h3>
+                <h3 className="text-white text-3xl font-bold mb-4">Co-operators Insurance App and Platform</h3>
                 <p className="text-gray-200 text-lg mb-6 opacity-0 group-hover:opacity-100 transition-opacity duration-300 delay-100">
                   Revolutionizing insurance claims with a human-centered digital platform
                 </p>
