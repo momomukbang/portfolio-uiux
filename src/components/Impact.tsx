@@ -8,7 +8,7 @@ const impacts = [
     icon: TrendingUp
   },
   {
-    metric: '2M+',
+    metric: '500000M+',
     description: 'Users Impacted Through Designed Solutions',
     icon: Users
   },
